@@ -55,6 +55,11 @@
   justify-content: space-between;
 }
 
+.header__link {
+  color: #2f80ed;
+  text-decoration: none;
+}
+
 .header__title {
   max-width: 635px;
   font-size: 62px;
