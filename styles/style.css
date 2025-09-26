@@ -50,11 +50,6 @@
   font-weight: bold;
 }
 
-.header__link {
-  color: #2f80ed;
-  text-decoration: none;
-}
-
 .header__content {
   display: flex;
   justify-content: space-between;
@@ -305,37 +300,6 @@
   line-height: 52px;
   font-weight: 500;
   margin: 0 0 24px;
-}
-
-.membership__steps {
-  display: flex;
-  justify-content: center;
-  flex-wrap: wrap;
-  gap: 40px;
-  margin: 0 auto;
-  max-width: 980px;
-}
-
-.step {
-  width: 220px;
-}
-
-.step__title {
-  font-size: 20px;
-  line-height: 30px;
-  font-weight: 700;
-  margin: 0 0 20px;
-}
-
-.step__icon {
-  font-size: 24px;
-  margin-right: 10px;
-}
-
-.step__description {
-  font-size: 16px;
-  line-height: 24px;
-  margin: 0;
 }
 
 .membership__steps-detalhados {
